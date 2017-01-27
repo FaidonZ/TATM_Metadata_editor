@@ -1,0 +1,23 @@
+[general]
+name=TATM_Metadata_editor
+qgisMinimumVersion=1.8
+qgisMaximumVersion=2.99
+description=TATM_Metadata_editor is an extension for creating metadata records in XML format for Spatial Datasets, according to ISO 19115 / 19139 standards and INSPIRE directive.
+version=version 0.1
+author=Faidon Zampoglou
+email=fzampogl@topo.auth.gr
+tags=datasets, metadata, INSPIRE
+category=Web
+experimental=True
+about=Characteristics:
+  - User interface in Greek language
+  - In current version the documentation of single datasets supported
+  - User friendly Interface, similar to INSPIRE Geoportal's GUI
+  - Tools that help easy identification of Geographic Extends of a spatial dataset
+  - Metadata Information about greek organizations is provided on a list
+  - Built-in help for all elements
+  - More accurate and more informative terminology (in greek language)
+  More:
+  TATM_Metadata_editor has been developed in the context of the Graduate Thesis "Development of a QGIS application for the creation of metadata according to INSPIRE directive" (supervisors: D. Sarafidis, M. Papadopoulou) in Aristotle University of Thessaloniki, Faculty of Engineering, School of Rural and Surveying Engineering, in October 2015.
+icon=icons/icon.png
+repository=https://github.com/FaidonZ/TATM_Metadata_editor

@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/plugins/Metadata_editor">
+    <file>icons/location.png</file>
+    <file>icons/select_red.png</file>
+    <file>icons/refresh.png</file>
+    <file>icons/icon.png</file>
+    <file>icons/ZoomIn.png</file>
+    <file>icons/ZoomOut.png</file>
+    <file>icons/info.png</file>
+    <file>icons/add.png</file>
+    <file>icons/remove.png</file>
+  </qresource>
+</RCC>
